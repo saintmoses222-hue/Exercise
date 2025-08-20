@@ -1,0 +1,21 @@
+h1  {color:black;}
+h1  {text-align: center;
+font-size: 40px;}
+h2  {text-align: center;}
+p   {text-align: center;}
+img {display: block;
+margin: 10px auto;}
+
+body    {background-color: lightblue;}
+table   {border-collapse: collapse;
+width: 200px;}
+th,  td  {boder: 1px solid black
+padding: 8px}
+td  {text-align: center;}
+button[type="button"]  {
+    background-color: darkblue;
+color: white;
+border: none;
+cursor: pointer;
+height: 30px;}
+li  {text-align: left;}
